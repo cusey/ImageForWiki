@@ -1,2 +1,2 @@
 # ImageForWiki
-Images used in Wiki
+Images used in Wiki and README
