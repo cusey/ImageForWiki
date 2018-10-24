@@ -1,1 +1,2 @@
-# Case 2
+# Use Case 2 : 
+# Host a website on NGINX HTTP Server
